@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/orientable_with_bottom",
+    "textures": {
+        "bottom": "lolmsmv:block/spruce_blackstone_smoker_bottom",
+        "front": "lolmsmv:block/spruce_blackstone_smoker_front_on",
+        "side": "lolmsmv:block/spruce_blackstone_smoker_side",
+        "top": "lolmsmv:block/spruce_blackstone_smoker_top"
+    }
+}

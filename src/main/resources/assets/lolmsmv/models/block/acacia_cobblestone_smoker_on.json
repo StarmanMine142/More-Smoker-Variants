@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/orientable_with_bottom",
+    "textures": {
+        "bottom": "lolmsmv:block/acacia_cobblestone_smoker_bottom",
+        "front": "lolmsmv:block/acacia_cobblestone_smoker_front_on",
+        "side": "lolmsmv:block/acacia_cobblestone_smoker_side",
+        "top": "lolmsmv:block/acacia_cobblestone_smoker_top"
+    }
+}

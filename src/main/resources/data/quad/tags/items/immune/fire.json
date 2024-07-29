@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "lolmsmv:warped_cobblestone_smoker",
+    "lolmsmv:crimson_cobblestone_smoker",
+    {
+      "id": "lolmsmv:warped_blackstone_smoker",
+      "required": false
+    },
+    {
+      "id": "lolmsmv:crimson_blackstone_smoker",
+      "required": false
+    },
+    {
+      "id": "lolmsmv:warped_deepslate_smoker",
+      "required": false
+    },
+    {
+      "id": "lolmsmv:crimson_deepslate_smoker",
+      "required": false
+    }
+  ]
+}
