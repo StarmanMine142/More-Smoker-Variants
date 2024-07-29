@@ -31,8 +31,8 @@ dependencies {
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
-	// MFV
-	modCompileOnly files(".gradle/loom-cache/remapped_mods/MoreFurnaceVariants-${project.mfv_version}-Fabric.jar")
+	// MFV (doesn't exist on 1.21)
+	// modCompileOnly files(".gradle/loom-cache/remapped_mods/MoreFurnaceVariants-${project.mfv_version}-Fabric.jar")
 }
 
 processResources {
