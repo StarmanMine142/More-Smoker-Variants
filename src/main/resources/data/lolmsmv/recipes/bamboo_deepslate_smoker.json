@@ -14,7 +14,7 @@
       "tag": "minecraft:bamboo_blocks"
     },
     "X": {
-      "item": "minecraft:furnace"
+      "item": "lolmfv:deepslate_furnace"
     }
   },
   "pattern": [

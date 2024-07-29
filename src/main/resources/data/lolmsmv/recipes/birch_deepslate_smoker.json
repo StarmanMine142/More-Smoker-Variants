@@ -14,7 +14,7 @@
       "tag": "minecraft:birch_logs"
     },
     "X": {
-      "item": "minecraft:furnace"
+      "item": "lolmfv:deepslate_furnace"
     }
   },
   "pattern": [
