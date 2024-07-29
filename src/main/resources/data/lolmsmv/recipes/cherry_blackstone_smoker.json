@@ -14,7 +14,7 @@
       "tag": "minecraft:cherry_logs"
     },
     "X": {
-      "item": "minecraft:furnace"
+      "item": "lolmfv:blackstone_furnace"
     }
   },
   "pattern": [

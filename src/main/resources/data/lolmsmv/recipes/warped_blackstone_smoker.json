@@ -14,7 +14,7 @@
       "tag": "minecraft:warped_stems"
     },
     "X": {
-      "item": "minecraft:furnace"
+      "item": "lolmfv:blackstone_furnace"
     }
   },
   "pattern": [
