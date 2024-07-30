@@ -28,6 +28,6 @@ public class MoreSmokerVariants implements ModInitializer {
     }
 
     public static ResourceLocation asId(String path) {
-        return new ResourceLocation(MODID, path);
+        return ResourceLocation.fromNamespaceAndPath(MODID, path);
     }
 }
