@@ -17,16 +17,14 @@ public class MoreSmokerVariants implements ModInitializer {
 
     @Override
     public void onInitialize() {
-//        if (FabricLoader.getInstance().isModLoaded("lolmfv")) {
-//            isMfvLoaded = true;
-//            LOGGER.info("MFV loaded");
-//        }
-        // MFV doesn't exist on 1.20.1
-        isMfvLoaded = true;
-        if (isMfvLoaded) { MsmvBlockInit.registerSmokerBlocks(); LOGGER.info("rSB"); } else { MsmvBlockInit.registerCobblestoneSmokerBlocks(); LOGGER.info("rCSB");}
-        MsmvItemInit.registerSmokerItems(); LOGGER.info("rSI");
-        if (isMfvLoaded) {    MsmvMfvItemInit.registerMfvSmokerItems(); LOGGER.info("rMSI"); }
-        MsmvPointOfInterestTypes.init(); LOGGER.info("MPOITinit");
+        if (FabricLoader.getInstance().isModLoaded("lolmfv")) {
+            isMfvLoaded = true;
+            LOGGER.info("MSMV:\"MFV loaded.\"");
+        }
+        if (isMfvLoaded) { MsmvBlockInit.registerSmokerBlocks(); } else { MsmvBlockInit.registerCobblestoneSmokerBlocks();}
+        MsmvItemInit.registerSmokerItems();
+        if (isMfvLoaded) {    MsmvMfvItemInit.registerMfvSmokerItems();}
+        MsmvPointOfInterestTypes.init();
     }
 
     public static ResourceLocation asId(String path) {
