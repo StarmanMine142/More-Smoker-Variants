@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmfv"
+      ]
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:warped_stems"
+    },
+    "X": {
+      "item": "lolmfv:blackstone_furnace"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "quad-lolmsmv:warped_blackstone_smoker"
+  }
+}

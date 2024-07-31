@@ -1,94 +1,94 @@
 {
   "replace": false,
   "values": [
-    "lolmsmv:dark_oak_cobblestone_smoker",
-    "lolmsmv:spruce_cobblestone_smoker",
-    "lolmsmv:birch_cobblestone_smoker",
-    "lolmsmv:jungle_cobblestone_smoker",
-    "lolmsmv:acacia_cobblestone_smoker",
-    "lolmsmv:crimson_cobblestone_smoker",
-    "lolmsmv:warped_cobblestone_smoker",
-    "lolmsmv:mangrove_cobblestone_smoker",
-    "lolmsmv:bamboo_cobblestone_smoker",
-    "lolmsmv:cherry_cobblestone_smoker",
+    "quad-lolmsmv:dark_oak_cobblestone_smoker",
+    "quad-lolmsmv:spruce_cobblestone_smoker",
+    "quad-lolmsmv:birch_cobblestone_smoker",
+    "quad-lolmsmv:jungle_cobblestone_smoker",
+    "quad-lolmsmv:acacia_cobblestone_smoker",
+    "quad-lolmsmv:crimson_cobblestone_smoker",
+    "quad-lolmsmv:warped_cobblestone_smoker",
+    "quad-lolmsmv:mangrove_cobblestone_smoker",
+    "quad-lolmsmv:bamboo_cobblestone_smoker",
+    "quad-lolmsmv:cherry_cobblestone_smoker",
     {
-      "id": "lolmsmv:acacia_blackstone_smoker",
+      "id": "quad-lolmsmv:acacia_blackstone_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:oak_blackstone_smoker",
+      "id": "quad-lolmsmv:oak_blackstone_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:dark_oak_blackstone_smoker",
+      "id": "quad-lolmsmv:dark_oak_blackstone_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:birch_blackstone_smoker",
+      "id": "quad-lolmsmv:birch_blackstone_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:jungle_blackstone_smoker",
+      "id": "quad-lolmsmv:jungle_blackstone_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:crimson_blackstone_smoker",
+      "id": "quad-lolmsmv:crimson_blackstone_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:warped_blackstone_smoker",
+      "id": "quad-lolmsmv:warped_blackstone_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:mangrove_blackstone_smoker",
+      "id": "quad-lolmsmv:mangrove_blackstone_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:bamboo_blackstone_smoker",
+      "id": "quad-lolmsmv:bamboo_blackstone_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:cherry_blackstone_smoker",
+      "id": "quad-lolmsmv:cherry_blackstone_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:oak_deepslate_smoker",
+      "id": "quad-lolmsmv:oak_deepslate_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:dark_oak_deepslate_smoker",
+      "id": "quad-lolmsmv:dark_oak_deepslate_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:birch_deepslate_smoker",
+      "id": "quad-lolmsmv:birch_deepslate_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:jungle_deepslate_smoker",
+      "id": "quad-lolmsmv:jungle_deepslate_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:acacia_deepslate_smoker",
+      "id": "quad-lolmsmv:acacia_deepslate_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:crimson_deepslate_smoker",
+      "id": "quad-lolmsmv:crimson_deepslate_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:warped_deepslate_smoker",
+      "id": "quad-lolmsmv:warped_deepslate_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:mangrove_deepslate_smoker",
+      "id": "quad-lolmsmv:mangrove_deepslate_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:bamboo_deepslate_smoker",
+      "id": "quad-lolmsmv:bamboo_deepslate_smoker",
       "required": false
     },
     {
-      "id": "lolmsmv:cherry_deepslate_smoker",
+      "id": "quad-lolmsmv:cherry_deepslate_smoker",
       "required": false
     }
   ]

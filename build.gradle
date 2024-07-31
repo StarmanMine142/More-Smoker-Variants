@@ -19,7 +19,7 @@ repositories {
 
 
 loom {
-	accessWidenerPath = file("src/main/resources/lolmsmv.accesswidener")
+	accessWidenerPath = file("src/main/resources/quad-lolmsmv.accesswidener")
 }
 
 dependencies {
