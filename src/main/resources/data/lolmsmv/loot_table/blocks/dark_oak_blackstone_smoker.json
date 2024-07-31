@@ -29,11 +29,11 @@
             }
           ],
           "name":
-           "quad-lolmsmv:oak_blackstone_smoker"
+          "quad-lolmsmv:dark_oak_blackstone_smoker"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "quad-lolmsmv:blocks/oak_blackstone_smoker"
+  "random_sequence": "quad-lolmsmv:blocks/dark_oak_blackstone_smoker"
 }
