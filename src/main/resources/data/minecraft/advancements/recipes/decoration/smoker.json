@@ -23,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "lolmsmv:oak_blackstone_smoker"
+        "recipe": "minecraft:smoker"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

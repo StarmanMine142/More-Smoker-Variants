@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:spruce_logs"
+    },
+    "X": {
+      "item": "minecraft:furnace"
+    },
+    "D": {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  },
+  "pattern": [
+    "D#D",
+    "#X#",
+    "D#D"
+  ],
+  "result": {
+    "count": 1,
+    "item": "quad-lolmsmv:spruce_deepslate_smoker"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:oak_logs"
+    },
+    "X": {
+      "item": "minecraft:furnace"
+    },
+    "B": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "pattern": [
+    "B#B",
+    "#X#",
+    "B#B"
+  ],
+  "result": {
+    "count": 1,
+    "item": "quad-lolmsmv:oak_blackstone_smoker"
+  }
+}
