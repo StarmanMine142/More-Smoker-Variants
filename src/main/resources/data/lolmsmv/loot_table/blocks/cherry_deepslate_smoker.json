@@ -29,11 +29,11 @@
             }
           ],
           "name":
-           "lolmsmv:cherry_deepslate_smoker"
+           "quad-lolmsmv:cherry_deepslate_smoker"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "lolmsmv:blocks/cherry_deepslate_smoker"
+  "random_sequence": "quad-lolmsmv:blocks/cherry_deepslate_smoker"
 }

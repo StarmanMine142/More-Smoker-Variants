@@ -29,11 +29,11 @@
             }
           ],
           "name":
-           "lolmsmv:jungle_blackstone_smoker"
+           "quad-lolmsmv:jungle_blackstone_smoker"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "lolmsmv:blocks/jungle_blackstone_smoker"
+  "random_sequence": "quad-lolmsmv:blocks/jungle_blackstone_smoker"
 }

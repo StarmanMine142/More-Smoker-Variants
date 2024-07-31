@@ -23,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "lolmsmv:dark_oak_cobblestone_smoker"
+        "recipe": "quad-lolmsmv:dark_oak_cobblestone_smoker"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -40,7 +40,7 @@
   ],
   "rewards": {
     "recipes": [
-      "lolmsmv:dark_oak_cobblestone_smoker"
+      "quad-lolmsmv:dark_oak_cobblestone_smoker"
     ]
   }
 }

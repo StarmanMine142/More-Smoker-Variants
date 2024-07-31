@@ -23,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "lolmsmv:warped_cobblestone_smoker"
+        "recipe": "quad-lolmsmv:warped_cobblestone_smoker"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -40,7 +40,7 @@
   ],
   "rewards": {
     "recipes": [
-      "lolmsmv:warped_cobblestone_smoker"
+      "quad-lolmsmv:warped_cobblestone_smoker"
     ]
   }
 }

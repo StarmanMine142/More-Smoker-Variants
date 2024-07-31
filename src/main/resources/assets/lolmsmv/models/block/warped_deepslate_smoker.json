@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block/orientable_with_bottom",
-    "textures": {
-        "bottom": "lolmsmv:block/warped_deepslate_smoker_bottom",
-        "front": "lolmsmv:block/warped_deepslate_smoker_front",
-        "side": "lolmsmv:block/warped_deepslate_smoker_side",
-        "top": "lolmsmv:block/warped_deepslate_smoker_top"
-    }
-}

@@ -29,11 +29,11 @@
             }
           ],
           "name":
-           "lolmsmv:mangrove_deepslate_smoker"
+           "quad-lolmsmv:mangrove_deepslate_smoker"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "lolmsmv:blocks/mangrove_deepslate_smoker"
+  "random_sequence": "quad-lolmsmv:blocks/mangrove_deepslate_smoker"
 }

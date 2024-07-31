@@ -29,11 +29,11 @@
             }
           ],
           "name":
-           "lolmsmv:bamboo_blackstone_smoker"
+           "quad-lolmsmv:bamboo_blackstone_smoker"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "lolmsmv:blocks/bamboo_blackstone_smoker"
+  "random_sequence": "quad-lolmsmv:blocks/bamboo_blackstone_smoker"
 }

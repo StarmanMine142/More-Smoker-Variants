@@ -31,7 +31,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "lolmsmv:acacia_blackstone_smoker"
+        "recipe": "quad-lolmsmv:acacia_blackstone_smoker"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -48,7 +48,7 @@
   ],
   "rewards": {
     "recipes": [
-      "lolmsmv:acacia_blackstone_smoker"
+      "quad-lolmsmv:acacia_blackstone_smoker"
     ]
   }
 }

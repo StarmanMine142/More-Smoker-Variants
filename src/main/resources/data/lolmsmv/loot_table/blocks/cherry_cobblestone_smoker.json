@@ -21,11 +21,11 @@
             }
           ],
           "name":
-           "lolmsmv:cherry_cobblestone_smoker"
+           "quad-lolmsmv:cherry_cobblestone_smoker"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "lolmsmv:blocks/cherry_cobblestone_smoker"
+  "random_sequence": "quad-lolmsmv:blocks/cherry_cobblestone_smoker"
 }

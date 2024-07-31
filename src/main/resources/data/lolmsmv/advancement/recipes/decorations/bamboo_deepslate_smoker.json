@@ -31,7 +31,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "lolmsmv:bamboo_deepslate_smoker"
+        "recipe": "quad-lolmsmv:bamboo_deepslate_smoker"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -48,7 +48,7 @@
   ],
   "rewards": {
     "recipes": [
-      "lolmsmv:bamboo_deepslate_smoker"
+      "quad-lolmsmv:bamboo_deepslate_smoker"
     ]
   }
 }

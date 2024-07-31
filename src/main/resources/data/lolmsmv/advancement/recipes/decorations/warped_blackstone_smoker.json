@@ -31,7 +31,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "lolmsmv:warped_blackstone_smoker"
+        "recipe": "quad-lolmsmv:warped_blackstone_smoker"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -48,7 +48,7 @@
   ],
   "rewards": {
     "recipes": [
-      "lolmsmv:warped_blackstone_smoker"
+      "quad-lolmsmv:warped_blackstone_smoker"
     ]
   }
 }

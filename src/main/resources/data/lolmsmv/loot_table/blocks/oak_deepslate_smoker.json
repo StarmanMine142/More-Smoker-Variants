@@ -29,11 +29,11 @@
             }
           ],
           "name":
-           "lolmsmv:oak_deepslate_smoker"
+           "quad-lolmsmv:oak_deepslate_smoker"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "lolmsmv:blocks/oak_deepslate_smoker"
+  "random_sequence": "quad-lolmsmv:blocks/oak_deepslate_smoker"
 }

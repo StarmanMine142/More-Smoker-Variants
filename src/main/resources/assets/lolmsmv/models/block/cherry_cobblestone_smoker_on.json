@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block/orientable_with_bottom",
-    "textures": {
-        "bottom": "lolmsmv:block/cherry_cobblestone_smoker_bottom",
-        "front": "lolmsmv:block/cherry_cobblestone_smoker_front_on",
-        "side": "lolmsmv:block/cherry_cobblestone_smoker_side",
-        "top": "lolmsmv:block/cherry_cobblestone_smoker_top"
-    }
-}

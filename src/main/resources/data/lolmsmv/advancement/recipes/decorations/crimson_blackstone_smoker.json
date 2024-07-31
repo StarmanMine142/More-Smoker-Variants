@@ -31,7 +31,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "lolmsmv:crimson_blackstone_smoker"
+        "recipe": "quad-lolmsmv:crimson_blackstone_smoker"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -48,7 +48,7 @@
   ],
   "rewards": {
     "recipes": [
-      "lolmsmv:crimson_blackstone_smoker"
+      "quad-lolmsmv:crimson_blackstone_smoker"
     ]
   }
 }

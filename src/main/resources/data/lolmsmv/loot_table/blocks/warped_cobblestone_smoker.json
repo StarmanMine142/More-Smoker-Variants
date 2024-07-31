@@ -21,11 +21,11 @@
             }
           ],
           "name":
-           "lolmsmv:warped_cobblestone_smoker"
+           "quad-lolmsmv:warped_cobblestone_smoker"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "lolmsmv:blocks/warped_cobblestone_smoker"
+  "random_sequence": "quad-lolmsmv:blocks/warped_cobblestone_smoker"
 }
