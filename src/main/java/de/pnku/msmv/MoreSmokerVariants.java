@@ -11,7 +11,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class MoreSmokerVariants implements ModInitializer {
-    public static final String MODID = "lolmsmv";
+    public static final String MODID = "quad-lolmsmv";
     public static boolean isMfvLoaded = false;
     public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
 

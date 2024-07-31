@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:recipes/root",
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmfv"
+      ]
+    }
+  ],
+  "criteria": {
+    "has_furnace": {
+      "conditions": {
+        "items": [
+          {
+            "items": [ "lolmfv:deepslate_furnace" ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_stems": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:crimson_stems"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quad-lolmsmv:crimson_deepslate_smoker"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_furnace"
+    ],
+    [
+      "has_the_recipe",
+      "has_stems"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quad-lolmsmv:crimson_deepslate_smoker"
+    ]
+  }
+}

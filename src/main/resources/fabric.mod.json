@@ -21,14 +21,15 @@
 		]
 	},
 	"mixins": [
-		"lolmsmv.mixins.json"
+		"quad-lolmsmv.mixins.json"
 	],
-	"accessWidener": "lolmsmv.accesswidener" ,
+	"accessWidener": "quad-lolmsmv.accesswidener" ,
 	"depends": {
 		"fabricloader": ">=${loader_version}",
 		"minecraft": "~1.20.4",
 		"java": ">=17",
-		"fabric-api": ">=0.97.0"
+		"fabric-api": ">=0.97.0",
+		"quad": ">=1.2.3"
 	},
 	"custom": {
 		"modmenu": {
