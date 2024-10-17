@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:bamboo_blocks"
-    },
-    "X": {
-      "item": "minecraft:furnace"
-    }
+    "#": "#minecraft:bamboo_blocks",
+    "X": "minecraft:furnace"
   },
   "pattern": [
     " # ",

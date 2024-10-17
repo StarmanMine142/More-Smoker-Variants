@@ -10,12 +10,8 @@
   ],
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:bamboo_blocks"
-    },
-    "X": {
-      "item": "lolmfv:deepslate_furnace"
-    }
+    "#": "#minecraft:bamboo_blocks",
+    "X": "lolmfv:deepslate_furnace"
   },
   "pattern": [
     " # ",

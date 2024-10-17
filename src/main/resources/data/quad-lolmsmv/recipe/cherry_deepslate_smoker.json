@@ -10,12 +10,8 @@
   ],
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:cherry_logs"
-    },
-    "X": {
-      "item": "lolmfv:deepslate_furnace"
-    }
+    "#": "#minecraft:cherry_logs",
+    "X": "lolmfv:deepslate_furnace"
   },
   "pattern": [
     " # ",

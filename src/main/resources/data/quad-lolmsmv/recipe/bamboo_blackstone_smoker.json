@@ -10,12 +10,8 @@
   ],
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:bamboo_blocks"
-    },
-    "X": {
-      "item": "lolmfv:blackstone_furnace"
-    }
+    "#": "#minecraft:bamboo_blocks",
+    "X": "lolmfv:blackstone_furnace"
   },
   "pattern": [
     " # ",

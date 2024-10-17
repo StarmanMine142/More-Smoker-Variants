@@ -10,12 +10,8 @@
   ],
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:jungle_logs"
-    },
-    "X": {
-      "item": "lolmfv:deepslate_furnace"
-    }
+    "#": "#minecraft:jungle_logs",
+    "X": "lolmfv:deepslate_furnace"
   },
   "pattern": [
     " # ",

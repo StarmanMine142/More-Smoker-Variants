@@ -10,12 +10,8 @@
   ],
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:dark_oak_logs"
-    },
-    "X": {
-      "item": "lolmfv:deepslate_furnace"
-    }
+    "#": "#minecraft:dark_oak_logs",
+    "X": "lolmfv:deepslate_furnace"
   },
   "pattern": [
     " # ",

@@ -10,12 +10,8 @@
   ],
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:crimson_stems"
-    },
-    "X": {
-      "item": "lolmfv:blackstone_furnace"
-    }
+    "#": "#minecraft:crimson_stems",
+    "X": "lolmfv:blackstone_furnace"
   },
   "pattern": [
     " # ",
