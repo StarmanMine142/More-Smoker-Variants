@@ -9,6 +9,7 @@
     }
   ],
   "category": "misc",
+  "group": "cobblestone_smokers",
   "key": {
     "#": {
       "tag": "minecraft:oak_logs"
