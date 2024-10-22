@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
+  "group": "blackstone_smokers",
   "key": {
     "#": {
       "tag": "minecraft:warped_stems"

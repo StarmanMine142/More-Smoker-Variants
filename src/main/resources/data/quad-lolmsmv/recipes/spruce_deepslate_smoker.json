@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
+  "group": "deepslate_smokers",
   "key": {
     "#": {
       "tag": "minecraft:spruce_logs"
