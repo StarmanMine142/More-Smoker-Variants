@@ -9,6 +9,7 @@
     }
   ],
   "category": "misc",
+  "group": "blackstone_smokers",
   "key": {
     "#": {
       "tag": "minecraft:mangrove_logs"
