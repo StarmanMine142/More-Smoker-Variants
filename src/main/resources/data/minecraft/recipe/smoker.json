@@ -9,6 +9,7 @@
     }
   ],
   "category": "misc",
+  "group": "cobblestone_smokers",
   "key": {
     "#": "#minecraft:oak_logs",
     "X": "minecraft:furnace"

@@ -9,6 +9,7 @@
     }
   ],
   "category": "misc",
+  "group": "blackstone_smokers",
   "key": {
     "#": "#minecraft:jungle_logs",
     "X": "lolmfv:blackstone_furnace"
